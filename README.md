@@ -5,6 +5,6 @@
 
 ![AVATAR](https://github.com/IbraTebas/Capstone-Project-SpaceX-IBM_data_science_certificate/blob/46957e7641708ee3c66157b44ada058ec670ccf1/image%20for%20readme.jpg)
 
-##For the presentation, refer to: https://bit.ly/3sleVJ8 
+## For the presentation, refer to: https://bit.ly/3sleVJ8 
 
 ### March 2022
